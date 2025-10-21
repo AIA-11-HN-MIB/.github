@@ -1,3 +1,6 @@
+# Reource
+[Schedule](https://docs.google.com/spreadsheets/d/1jdmPfl-eMlMXBo9GBmtdg-RB6Wb7JG8zn-mZxMOWLEo/edit?usp=sharing)
+
 # Overview
 Cung cấp nền tảng phỏng vấn mô phỏng có trí tuệ nhân tạo, nơi ứng viên có thể:
 - Trả lời câu hỏi phỏng vấn qua chat hoặc giọng nói.
